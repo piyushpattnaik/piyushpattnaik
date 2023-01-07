@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piyushpattnaik
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning Electrical engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying Electrical engineering
 - 📫 How to reach me ...
 
 <!---
