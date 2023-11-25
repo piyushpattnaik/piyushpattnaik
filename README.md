@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piyushpattnaik
-- 👀 I’m interested in AI 
+- 👀 I’m interested in Data Science, Software development
 - 🌱 I’m currently studying Electrical engineering
 
 <!---
