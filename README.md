@@ -59,8 +59,8 @@ I am an AI Engineer specializing in developing scalable Generative AI applicatio
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushpattnaik&show_icons=true&theme=transparent&hide_border=true&title_color=0072C6&icon_color=0072C6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpattnaik&theme=transparent&hide_border=true&title_color=0072C6&ring=0072C6&fire=0072C6&currStreakLabel=0072C6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushpattnaik&show_icons=true&theme=transparent&hide_border=true&title_color=0072C6&icon_color=0072C6&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpattnaik&theme=transparent&hide_border=true&title_color=0072C6&ring=0072C6&fire=0072C6&currStreakLabel=0072C6&cache_seconds=86400" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
